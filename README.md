@@ -11,5 +11,7 @@ them far enough off-screen.
 Controls:
 
 Arrow Keys - Move
+
 Spacebar - Swing Sword
+
 Z - Shield Dash
